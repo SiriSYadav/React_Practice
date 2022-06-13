@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.sunny{
+  background-image:url('https://media.istockphoto.com/photos/blue-sky-with-bright-sun-and-clouds-picture-id1007768414?k=20&m=1007768414&s=612x612&w=0&h=tPqlkOIe3O1hM2pnYbZAJdwIXIpdpDddABPNdVTFOrs=');
+  background-size: cover;
+  background-repeat: repeat;
+  background-color: yellow;
+}
+.rainy{
+  background-image:url('https://images.pexels.com/photos/1463530/pexels-photo-1463530.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' );
+  background-size: cover;
+  background-color: aqua;
+}
