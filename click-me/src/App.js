@@ -15,7 +15,7 @@ const [values,setValue]=useState(true);
     <div>
       <button onClick={()=>{setValue(!values)}}>Click Me To Change The Weather</button>
     {values?<h1 className='sunny'> Sunny</h1>:
-  <h1 className='rainy'>Rainy</h1>}
+  <h2 className='rainy'>Rainy</h2>}
     </div>
     
   )

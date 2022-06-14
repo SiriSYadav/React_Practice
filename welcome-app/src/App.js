@@ -3,7 +3,8 @@ import './App.css';
 import Welcome from './Components/welcome Component/welcome.component';
 import Designation from './Components/Designation/designation.component';
 
-function App() {
+const App=()=> {
+  
   return (
     <div className="App">
       <header className="App-header">
